@@ -1,2 +1,4 @@
 # Mailer
-Istall exe file to start
+Install exe file to start
+
+![Software Screen](./screen.jpg)
